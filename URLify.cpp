@@ -10,9 +10,6 @@
 
 //mai yaha string class use nhi kar raha hu kyuki basics clear hone chaiye.
 
-//Issue:
-//Look for corner cases if any
-
 #include<iostream>
 #include<cstring>    //to use strlen()
 
